@@ -1,0 +1,19 @@
+body{
+    margin: 25px;
+    background-color: cornsilk;
+}
+
+#header{
+    border-radius: 15px;
+    background-color: #f5ffdc;
+    border: 1px solid black; 
+}
+
+#header>h3{
+    margin-left: 10px;
+}
+
+h1, h2, p{
+    margin-left: 10px;
+}
+
